@@ -1,1 +1,2 @@
 Locally created file
+Remote content added to local file
