@@ -1,1 +1,2 @@
 reset soft
+reset soft test again
